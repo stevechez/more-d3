@@ -1,0 +1,13 @@
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+.donut.title {
+  fill: blue;
+  width: 300px;
+}
